@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-initializer",
+  "version": "1.0.0",
+  "description": "Initializes A Coding Environment To Start Solving Leetcode Localy By Command",
+  "homepage": "https://github.com/obitop/leetcode-initializer#readme",
+  "bugs": {
+    "url": "https://github.com/obitop/leetcode-initializer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obitop/leetcode-initializer.git"
+  },
+  "license": "ISC",
+  "author": "Tarek Denewar",
+  "type": "commonjs",
+  "main": "writer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "leetcode-query": "^2.0.1",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {}
+}
